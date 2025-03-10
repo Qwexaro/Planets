@@ -1,0 +1,3 @@
+﻿  RPO1_Ivanov_Sergey_planets.cpp
+C:\Users\106010065.TOP\source\repos\Planets\Planets\RPO1_Ivanov_Sergey_planets.cpp(89,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Planets.vcxproj -> C:\Users\106010065.TOP\source\repos\Planets\x64\Debug\Planets.exe
